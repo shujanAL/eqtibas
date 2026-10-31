@@ -1,0 +1,2404 @@
+%PDF-1.4
+%‚„œ”
+1 0 obj
+<<
+/Producer (pypdf)
+/Title (Eqtibas \055 Software Requirements Specification)
+/Subject (Final SRS for Eqtibas quotation platform)
+>>
+endobj
+2 0 obj
+<<
+/Type /Pages
+/Count 7
+/Kids [ 4 0 R 15 0 R 18 0 R 21 0 R 24 0 R 27 0 R 30 0 R ]
+>>
+endobj
+3 0 obj
+<<
+/Type /Catalog
+/Pages 2 0 R
+>>
+endobj
+4 0 obj
+<<
+/Contents 5 0 R
+/MediaBox [ 0 0 595.2756 841.8898 ]
+/Resources <<
+/Font <<
+/F1 6 0 R
+/F1-0 7 0 R
+/F1-1 8 0 R
+/F2 9 0 R
+/F2-0 10 0 R
+>>
+/XObject <<
+/FormXob.db1f5f0b2200616ef1459e8df40b18f1 11 0 R
+/FormXob.ef07cc057d4982ab32b157fa17b9782d 13 0 R
+>>
+/ProcSet [ /ImageB /ImageC /ImageI /PDF /Text ]
+>>
+/Rotate 0
+/Trans <<
+>>
+/Type /Page
+/Annots [ ]
+/Parent 2 0 R
+>>
+endobj
+5 0 obj
+<<
+/Length 2037
+>>
+stream
+q
+q
+1 0 0 1 0 0 cm  BT /F1 12 Tf 14.4 TL ET
+q
+.905882 .866667 .815686 RG
+n 51.02362 42.51969 m 544.252 42.51969 l S
+BT /F1 8 Tf 9.6 TL ET
+.501961 .501961 .501961 rg
+BT 1 0 0 1 51.02362 28.34646 Tm (QuoteIt - Software Requirements Specification v2.0) Tj T* ET
+BT 1 0 0 1 539.804 28.34646 Tm (1) Tj T* ET
+Q
+q
+1 0 0 1 57.02362 752.8661 cm
+q
+.137255 .12549 .113725 rg
+BT 1 0 0 1 0 4 Tm /F2 28 Tf 32 TL 191.6142 0 Td (QuoteIt) Tj T* -191.6142 0 Td ET
+Q
+Q
+q
+1 0 0 1 57.02362 715.8661 cm
+q
+.72549 .329412 .207843 rg
+BT 1 0 0 1 0 5 Tm /F2 17 Tf 22 TL (Software Requirements Specification \(SRS\)) Tj T* ET
+Q
+Q
+q
+1 0 0 1 57.02362 693.8661 cm
+q
+.137255 .12549 .113725 rg
+BT 1 0 0 1 0 4.8 Tm /F1 10.2 Tf 15 TL (Version 2.0 | Final Delivery | 30 October 2026) Tj T* ET
+Q
+Q
+q
+1 0 0 1 57.02362 616 cm
+Q
+q
+1 0 0 1 57.02362 595 cm
+q
+.137255 .12549 .113725 rg
+BT 1 0 0 1 0 4.8 Tm /F1 10.2 Tf 15 TL 53.81137 0 Td (A Laravel web platform for publishing, discovering, and managing short quotations.) Tj T* -53.81137 0 Td ET
+Q
+Q
+ 
+
+Q
+
+q
+0.0 0.0 595.2756 841.8898 re
+W
+n
+1 0 0 1 0 0 cm
+BT
+/F1-0 12 Tf
+14.4 TL
+ET
+1 1 1 rg
+n
+0 0 595.2756 53.85827 re
+f*
+0.905882 0.866667 0.815686 RG
+n
+51.02362 42.51969 m
+544.252 42.51969 l
+S
+BT
+/F1-0 8 Tf
+9.6 TL
+ET
+0.501961 0.501961 0.501961 rg
+BT
+1 0 0 1 51.02362 28.34646 Tm
+(EQTIBAS \055 Software Requirements Specification v2\0561) Tj
+T*
+ET
+BT
+1 0 0 1 539.804 28.34646 Tm
+(1) Tj
+T*
+ET
+1 1 1 rg
+n
+127.5591 720 340.1575 76.53543 re
+f*
+q
+226.7717 0 0 42.51969 184.252 735.5906 cm
+/FormXob.db1f5f0b2200616ef1459e8df40b18f1 Do
+Q
+Q
+
+
+Q
+
+q
+0.0 0.0 595.2756 841.8898 re
+W
+n
+1 0 0 1 0 0 cm
+BT
+/F1-1 12 Tf
+14.4 TL
+ET
+1 1 1 rg
+n
+35 611.8898 525.2756 205 re
+f*
+q
+140 0 0 26.25 227.6378 719.7648 cm
+/FormXob.ef07cc057d4982ab32b157fa17b9782d Do
+Q
+0.72549 0.309804 0.180392 rg
+BT
+/F2-0 24 Tf
+28.8 TL
+ET
+BT
+1 0 0 1 85.5858 669.8898 Tm
+(Software Requirements Specification) Tj
+T*
+ET
+0.133333 0.133333 0.133333 rg
+BT
+/F1-1 10 Tf
+12 TL
+ET
+BT
+1 0 0 1 196.6628 646.8898 Tm
+(Version 2\0561 \174 Final Delivery \174 31 October 2026) Tj
+T*
+ET
+Q
+
+
+endstream
+endobj
+6 0 obj
+<<
+/BaseFont /Helvetica
+/Encoding /WinAnsiEncoding
+/Name /F1
+/Subtype /Type1
+/Type /Font
+>>
+endobj
+7 0 obj
+<<
+/BaseFont /Helvetica
+/Encoding /WinAnsiEncoding
+/Name /F1
+/Subtype /Type1
+/Type /Font
+>>
+endobj
+8 0 obj
+<<
+/BaseFont /Helvetica
+/Encoding /WinAnsiEncoding
+/Name /F1
+/Subtype /Type1
+/Type /Font
+>>
+endobj
+9 0 obj
+<<
+/BaseFont /Helvetica-Bold
+/Encoding /WinAnsiEncoding
+/Name /F2
+/Subtype /Type1
+/Type /Font
+>>
+endobj
+10 0 obj
+<<
+/BaseFont /Helvetica-Bold
+/Encoding /WinAnsiEncoding
+/Name /F2
+/Subtype /Type1
+/Type /Font
+>>
+endobj
+11 0 obj
+<<
+/BitsPerComponent 8
+/ColorSpace /DeviceRGB
+/Filter [ /ASCII85Decode /FlateDecode ]
+/Height 150
+/SMask 12 0 R
+/Subtype /Image
+/Type /XObject
+/Width 800
+/Length 1597
+>>
+stream
+Gb"0W9lc^q'F%BN,/Yd07Rj!&IbFbP![:[LgqO*rD9aRW;3;?j%.mQojn@pAzzzzzzzzzzzzzzzzzzzzzzzzzzzzz!"1kqhOd!7gP<76cBAb>!%9!t!<=ZD^&e<.mqIqe^.+I&=Zg'!215It#mUtX#G40[Y_Ic8N.XnJ!*I.T"3/0T%fi]ihuVlrdg#m(E:ABtnEC#TCH-RS3;E+HJ2K/%0[AKYIm*JVUcH?go(qD.V.uMiV[ido=c3=@^R+tQO8UG>F`6@jX2X<*!'Ae;^j,.=am/>;?/6tKXgRBq!;kAK^dtY6h-E7W?eGJ7RQ^_uKRY'tVA3%i-g,1]<IEV:H<\eI]k982jXU==E=M$1U7K+R)hitV,@:HO95,\ZrHNUe%Tg3VG*9$/J/,GSYGs(U538j+FQ=qP?u`:ON*,UMT=[k-G$+E1=KP7=!,+nR!TRDrS>'e(?$&Q<9HO8eK>Q]r9#)js=/YgK=)?MiV@N[n_%H7g\2ed]pmPWm(KN'8#6=JUS)p\QF,%:_#DYXIaDKmE)jrkiYQs&:?d4%L0Xd0)C1[5A5ZVETA][[KCZha+V,Q?PItbj@;mZ@.V8$71$37f"@),;l)aAS]\isljq)Ip[!:4%]pUr7Xgo5_Hm3H%u93=!1aH<Y+@)p-B:="!1Naql7E?;B4ebe%uRMW6i.fe5"WYb]aU<U^<BrrkG`N#11LFn?Di@-mPY9L1F"f><BZ/dD8fV\n&Mkg(tdV1geJ+U.YkL,;dhH0"AT*XV\U+`<WmQola3;3s@]nb2Vj+GNV!3i0<Em<&..^C="S&^+24QZAgr?c%Nq6Sa*d:m#q0jDcXqHj9=%Y`)c(14hf"Lcs;U8-AcTaf.X`X&E-kfR"T\*ggpQ[4oMZ"KMs90[6e!\NeCRT4dSZ[;oV)g\=8W-#DgY[\a<_a`e6nbT3<b*7C2MRuc74$OeHVLP2rrds^=rjKGR47;=okL/8ZS>u1Q)WpoZA>aP+9>k66$33!VaQml#UTJqJ6d(+14.E_ms%W&!!,SV,I$IgOM:R?0PAA:CXT6.g>0g9,ZL\<^p=o8*/*N/"!+81;k,WU;cjDKPP8S!,7Gmp+m7o!8!PjGA*MqoK\,Z>gVecjuU`O@.X".r`.UN4lL2&etc5<Q@3Rn$#_S55pS=Vim3GtZu=5;t)^&ifo`>5"Z>@;"\5io0mcBVI)<Q2^u]7g-AZ5p1_.Ho_DjDN2Q'-ZHf!8(=/IM@!GcX_l@$Sp+RoM]eoLW[:(=.(m7kK@X@5e?@!<?DT.=^oP"V/3r1@t!dd<rfJ,<.=VjMY!lbF;a\iICIGZO3tH:Y(?!30mqg$UiA1I28-Z"!`'UADqD,;A@KnN%Dg2clbq[r6e_%SpJ3mJ70E>m!&g+ERlXo7SYj0p*t?l[ZE[j3;*+aX9j=f^_':I*!!)BnGA2<sZ?QNQ*8)7.acpm^g6Lo'l0R+O!.`JVh*G9#)3h<)J7U=bZDkf^Fcrp.J/&J)lf$^\m3WMB$342GFe`o!`%!pc"T[IorcH+1:KF"i*rpg8j68JbbEi_"6\FnP;i+KSzzzzzzzzzzzzzzzzzzzzzzzzzzz!!!#gmJR6E-Qj-~>
+endstream
+endobj
+12 0 obj
+<<
+/BitsPerComponent 8
+/ColorSpace /DeviceGray
+/Decode [ 0 1 ]
+/Filter [ /ASCII85Decode /FlateDecode ]
+/Height 150
+/Subtype /Image
+/Type /XObject
+/Width 800
+/Length 1204
+>>
+stream
+Gb"0WgL7*S(^<eETE,t(!?86E/$K+:TESQ(#+M7nS)M9naM;3=?k.jkoro)p`]X0k0GiN6%0-A.zzzzzzzz!!!#7.\*Q>qYKaTms4=c"VsTl@$l>GIb!811LK3QI&!no5>oYp_+McR%$M2=-6Fp85%'b*^p$D,SEApUGk[;IZ;F_a.Aa\\C3c0Xq-YKqPk))*.annc$;3.gPkS0#qadKd..<FAF^%7sJ,S$N]@&ASeKkN./g%12k^4@3q5@'gg*eN/fR+t#GdO1i+0<H6I-gb+34E6I+0<<2;U-@3mPekYlgk0%+0<E5;Ej!abHJ\4f951D7U^a3ohN`OrK<:e>*0>EY>=:jJ)@im\*>sbq;D#D83Z=th:pYaoT>G,llG"cq+*[nj&_;uaFm%Aa#uW0LIYR`b=<ThHb7\g'Lu^5j8#;;_.#Q"\SQHe83SqcI'@!IUl'*%K1S:lO5qK,/D$Y+GJ+*$5+;.r5Eh.&edmRaYS<WOeYbGM]6Zsp01f!RO,^O(5\n&APE/(X?d`/Q-m("Z?k(]_W+WI&L$82Bs":83E$"'%FPh4t]\@E>8FtU#QZM>oHn_mDUknK.j\SOY>o2raQB0TuKJj?aZng*hjp$kQp(!Sl?m2tl\umpd\DJE?c/$_E<iiIc4FD9mkEM4%'7r-bmT2,JO.NrIOUl'4D.b!<jJ+c4S)h,&l]G_uf#C^2AN8N6^QO#Wf=ep6I+iJ5g]\#+G53pi9j$M0RDfAuJg9/uP^.ABD^=Z'=c03SBKkb.hnSkZ7IqnJ#;_j<O/DLh>t?hBX(rn$b\T6\Vni^XBoRI.k.sQ%c,@[.1OI>TPe@1fFXUE,iS0Ehj5Ts>=HL+oHP7%>gT0a"-("puXY_Tdg=:M%?rTc_Qs"j*kY?Y=Z0Eo%]o:6B=`9j%PpO+#PY&7HS'*F#:d17Nh/*FaHou1h<s7'CSHl3@ZT3-%OS'Dk>qZalI&sC(GMA;lk18%#g$25;$9d'YYBO".Z*)rb\<cmNe>q^bae:0^bAha`QPRh'Ub!S#Ms[duRkIQmaH@54?uE)ap%`Qd8?sgN`U!OLkAP]1/fVDp^u)DD'b?WArjl/]6i)j<^$U.+(7B?!hrVgNi0:i(q-Y3I-R:$]53.?]aPq9pg[EI95sAD/,dK>(LcjZ%IoG'hk<?nX&;S#8=.F2M+lt_VG%UsYzzzzzzzzzs+C=OV_Zo#~>
+endstream
+endobj
+13 0 obj
+<<
+/BitsPerComponent 8
+/ColorSpace /DeviceRGB
+/Filter [ /ASCII85Decode /FlateDecode ]
+/Height 150
+/SMask 14 0 R
+/Subtype /Image
+/Type /XObject
+/Width 800
+/Length 1597
+>>
+stream
+Gb"0W9lc^q'F%BN,/Yd07Rj!&IbFbP![:[LgqO*rD9aRW;3;?j%.mQojn@pAzzzzzzzzzzzzzzzzzzzzzzzzzzzzz!"1kqhOd!7gP<76cBAb>!%9!t!<=ZD^&e<.mqIqe^.+I&=Zg'!215It#mUtX#G40[Y_Ic8N.XnJ!*I.T"3/0T%fi]ihuVlrdg#m(E:ABtnEC#TCH-RS3;E+HJ2K/%0[AKYIm*JVUcH?go(qD.V.uMiV[ido=c3=@^R+tQO8UG>F`6@jX2X<*!'Ae;^j,.=am/>;?/6tKXgRBq!;kAK^dtY6h-E7W?eGJ7RQ^_uKRY'tVA3%i-g,1]<IEV:H<\eI]k982jXU==E=M$1U7K+R)hitV,@:HO95,\ZrHNUe%Tg3VG*9$/J/,GSYGs(U538j+FQ=qP?u`:ON*,UMT=[k-G$+E1=KP7=!,+nR!TRDrS>'e(?$&Q<9HO8eK>Q]r9#)js=/YgK=)?MiV@N[n_%H7g\2ed]pmPWm(KN'8#6=JUS)p\QF,%:_#DYXIaDKmE)jrkiYQs&:?d4%L0Xd0)C1[5A5ZVETA][[KCZha+V,Q?PItbj@;mZ@.V8$71$37f"@),;l)aAS]\isljq)Ip[!:4%]pUr7Xgo5_Hm3H%u93=!1aH<Y+@)p-B:="!1Naql7E?;B4ebe%uRMW6i.fe5"WYb]aU<U^<BrrkG`N#11LFn?Di@-mPY9L1F"f><BZ/dD8fV\n&Mkg(tdV1geJ+U.YkL,;dhH0"AT*XV\U+`<WmQola3;3s@]nb2Vj+GNV!3i0<Em<&..^C="S&^+24QZAgr?c%Nq6Sa*d:m#q0jDcXqHj9=%Y`)c(14hf"Lcs;U8-AcTaf.X`X&E-kfR"T\*ggpQ[4oMZ"KMs90[6e!\NeCRT4dSZ[;oV)g\=8W-#DgY[\a<_a`e6nbT3<b*7C2MRuc74$OeHVLP2rrds^=rjKGR47;=okL/8ZS>u1Q)WpoZA>aP+9>k66$33!VaQml#UTJqJ6d(+14.E_ms%W&!!,SV,I$IgOM:R?0PAA:CXT6.g>0g9,ZL\<^p=o8*/*N/"!+81;k,WU;cjDKPP8S!,7Gmp+m7o!8!PjGA*MqoK\,Z>gVecjuU`O@.X".r`.UN4lL2&etc5<Q@3Rn$#_S55pS=Vim3GtZu=5;t)^&ifo`>5"Z>@;"\5io0mcBVI)<Q2^u]7g-AZ5p1_.Ho_DjDN2Q'-ZHf!8(=/IM@!GcX_l@$Sp+RoM]eoLW[:(=.(m7kK@X@5e?@!<?DT.=^oP"V/3r1@t!dd<rfJ,<.=VjMY!lbF;a\iICIGZO3tH:Y(?!30mqg$UiA1I28-Z"!`'UADqD,;A@KnN%Dg2clbq[r6e_%SpJ3mJ70E>m!&g+ERlXo7SYj0p*t?l[ZE[j3;*+aX9j=f^_':I*!!)BnGA2<sZ?QNQ*8)7.acpm^g6Lo'l0R+O!.`JVh*G9#)3h<)J7U=bZDkf^Fcrp.J/&J)lf$^\m3WMB$342GFe`o!`%!pc"T[IorcH+1:KF"i*rpg8j68JbbEi_"6\FnP;i+KSzzzzzzzzzzzzzzzzzzzzzzzzzzz!!!#gmJR6E-Qj-~>
+endstream
+endobj
+14 0 obj
+<<
+/BitsPerComponent 8
+/ColorSpace /DeviceGray
+/Decode [ 0 1 ]
+/Filter [ /ASCII85Decode /FlateDecode ]
+/Height 150
+/Subtype /Image
+/Type /XObject
+/Width 800
+/Length 1204
+>>
+stream
+Gb"0WgL7*S(^<eETE,t(!?86E/$K+:TESQ(#+M7nS)M9naM;3=?k.jkoro)p`]X0k0GiN6%0-A.zzzzzzzz!!!#7.\*Q>qYKaTms4=c"VsTl@$l>GIb!811LK3QI&!no5>oYp_+McR%$M2=-6Fp85%'b*^p$D,SEApUGk[;IZ;F_a.Aa\\C3c0Xq-YKqPk))*.annc$;3.gPkS0#qadKd..<FAF^%7sJ,S$N]@&ASeKkN./g%12k^4@3q5@'gg*eN/fR+t#GdO1i+0<H6I-gb+34E6I+0<<2;U-@3mPekYlgk0%+0<E5;Ej!abHJ\4f951D7U^a3ohN`OrK<:e>*0>EY>=:jJ)@im\*>sbq;D#D83Z=th:pYaoT>G,llG"cq+*[nj&_;uaFm%Aa#uW0LIYR`b=<ThHb7\g'Lu^5j8#;;_.#Q"\SQHe83SqcI'@!IUl'*%K1S:lO5qK,/D$Y+GJ+*$5+;.r5Eh.&edmRaYS<WOeYbGM]6Zsp01f!RO,^O(5\n&APE/(X?d`/Q-m("Z?k(]_W+WI&L$82Bs":83E$"'%FPh4t]\@E>8FtU#QZM>oHn_mDUknK.j\SOY>o2raQB0TuKJj?aZng*hjp$kQp(!Sl?m2tl\umpd\DJE?c/$_E<iiIc4FD9mkEM4%'7r-bmT2,JO.NrIOUl'4D.b!<jJ+c4S)h,&l]G_uf#C^2AN8N6^QO#Wf=ep6I+iJ5g]\#+G53pi9j$M0RDfAuJg9/uP^.ABD^=Z'=c03SBKkb.hnSkZ7IqnJ#;_j<O/DLh>t?hBX(rn$b\T6\Vni^XBoRI.k.sQ%c,@[.1OI>TPe@1fFXUE,iS0Ehj5Ts>=HL+oHP7%>gT0a"-("puXY_Tdg=:M%?rTc_Qs"j*kY?Y=Z0Eo%]o:6B=`9j%PpO+#PY&7HS'*F#:d17Nh/*FaHou1h<s7'CSHl3@ZT3-%OS'Dk>qZalI&sC(GMA;lk18%#g$25;$9d'YYBO".Z*)rb\<cmNe>q^bae:0^bAha`QPRh'Ub!S#Ms[duRkIQmaH@54?uE)ap%`Qd8?sgN`U!OLkAP]1/fVDp^u)DD'b?WArjl/]6i)j<^$U.+(7B?!hrVgNi0:i(q-Y3I-R:$]53.?]aPq9pg[EI95sAD/,dK>(LcjZ%IoG'hk<?nX&;S#8=.F2M+lt_VG%UsYzzzzzzzzzs+C=OV_Zo#~>
+endstream
+endobj
+15 0 obj
+<<
+/Contents 16 0 R
+/MediaBox [ 0 0 595.2756 841.8898 ]
+/Resources <<
+/Font <<
+/F1 6 0 R
+/F1-0 17 0 R
+/F2 9 0 R
+>>
+/ProcSet [ /ImageB /ImageC /ImageI /PDF /Text ]
+>>
+/Rotate 0
+/Trans <<
+>>
+/Type /Page
+/Annots [ ]
+/Parent 2 0 R
+>>
+endobj
+16 0 obj
+<<
+/Length 5393
+>>
+stream
+q
+1 0 0 1 0 0 cm  BT /F1 12 Tf 14.4 TL ET
+q
+.905882 .866667 .815686 RG
+n 51.02362 42.51969 m 544.252 42.51969 l S
+BT /F1 8 Tf 9.6 TL ET
+.501961 .501961 .501961 rg
+BT 1 0 0 1 51.02362 28.34646 Tm (QuoteIt - Software Requirements Specification v2.0) Tj T* ET
+BT 1 0 0 1 539.804 28.34646 Tm (2) Tj T* ET
+Q
+q
+1 0 0 1 57.02362 762.8661 cm
+q
+.72549 .329412 .207843 rg
+BT 1 0 0 1 0 5 Tm /F2 17 Tf 22 TL (1. Purpose and Scope) Tj T* ET
+Q
+Q
+q
+1 0 0 1 57.02362 710.8661 cm
+q
+.137255 .12549 .113725 rg
+BT 1 0 0 1 0 34.8 Tm /F1 10.2 Tf 15 TL (QuoteIt provides one public place to browse and search quotations. Registered users can publish) Tj T* (quotations and update or delete only their own content. The final scope includes authentication, quote) Tj T* (management, ownership authorization, responsive Blade interfaces, validation, and keyword search.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 57.02362 676.8661 cm
+q
+.72549 .329412 .207843 rg
+BT 1 0 0 1 0 5 Tm /F2 17 Tf 22 TL (In scope) Tj T* ET
+Q
+Q
+q
+1 0 0 1 57.02362 492.8661 cm
+q
+.72549 .329412 .207843 rg
+n 0 177 487.5591 -27 re f*
+1 1 1 rg
+n 0 150 487.5591 -27 re f*
+.972549 .952941 .917647 rg
+n 0 123 487.5591 -27 re f*
+1 1 1 rg
+n 0 96 487.5591 -27 re f*
+.972549 .952941 .917647 rg
+n 0 69 487.5591 -27 re f*
+1 1 1 rg
+n 0 42 487.5591 -42 re f*
+1 1 1 rg
+BT /F2 10 Tf 12 TL ET
+q
+1 0 0 1 7 156 cm
+q
+.137255 .12549 .113725 rg
+BT 1 0 0 1 0 4.8 Tm /F1 10.2 Tf 15 TL (Capability) Tj T* ET
+Q
+Q
+q
+1 0 0 1 126.0551 156 cm
+q
+.137255 .12549 .113725 rg
+BT 1 0 0 1 0 4.8 Tm /F1 10.2 Tf 15 TL (Description) Tj T* ET
+Q
+Q
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+q
+1 0 0 1 7 129 cm
+q
+.137255 .12549 .113725 rg
+BT 1 0 0 1 0 4.8 Tm /F1 10.2 Tf 15 TL (Public browsing) Tj T* ET
+Q
+Q
+q
+1 0 0 1 126.0551 129 cm
+q
+.137255 .12549 .113725 rg
+BT 1 0 0 1 0 4.8 Tm /F1 10.2 Tf 15 TL (Guests and users view quote text, author name, and publication date.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 7 102 cm
+q
+.137255 .12549 .113725 rg
+BT 1 0 0 1 0 4.8 Tm /F1 10.2 Tf 15 TL (Accounts) Tj T* ET
+Q
+Q
+q
+1 0 0 1 126.0551 102 cm
+q
+.137255 .12549 .113725 rg
+BT 1 0 0 1 0 4.8 Tm /F1 10.2 Tf 15 TL (Registration, login, and secure logout.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 7 75 cm
+q
+.137255 .12549 .113725 rg
+BT 1 0 0 1 0 4.8 Tm /F1 10.2 Tf 15 TL (Quote management) Tj T* ET
+Q
+Q
+q
+1 0 0 1 126.0551 75 cm
+q
+.137255 .12549 .113725 rg
+BT 1 0 0 1 0 4.8 Tm /F1 10.2 Tf 15 TL (Authenticated users create, edit, and delete their own quotes.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 7 48 cm
+q
+.137255 .12549 .113725 rg
+BT 1 0 0 1 0 4.8 Tm /F1 10.2 Tf 15 TL (Search) Tj T* ET
+Q
+Q
+q
+1 0 0 1 126.0551 48 cm
+q
+.137255 .12549 .113725 rg
+BT 1 0 0 1 0 4.8 Tm /F1 10.2 Tf 15 TL (Case-insensitive keyword search inside quote content.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 7 21 cm
+q
+.137255 .12549 .113725 rg
+BT 1 0 0 1 0 4.8 Tm /F1 10.2 Tf 15 TL (Security) Tj T* ET
+Q
+Q
+q
+1 0 0 1 126.0551 6 cm
+q
+.137255 .12549 .113725 rg
+BT 1 0 0 1 0 19.8 Tm /F1 10.2 Tf 15 TL (Password hashing, CSRF protection, validation, session regeneration, and) Tj T* (authorization policy.) Tj T* ET
+Q
+Q
+q
+1 J
+1 j
+.847059 .792157 .737255 RG
+.4 w
+n 0 177 m 487.5591 177 l S
+n 0 0 m 487.5591 0 l S
+n 0 0 m 0 177 l S
+n 487.5591 0 m 487.5591 177 l S
+n 0 150 m 487.5591 150 l S
+n 0 123 m 487.5591 123 l S
+n 0 96 m 487.5591 96 l S
+n 0 69 m 487.5591 69 l S
+n 0 42 m 487.5591 42 l S
+n 119.0551 0 m 119.0551 177 l S
+Q
+Q
+Q
+q
+1 0 0 1 57.02362 458.8661 cm
+q
+.72549 .329412 .207843 rg
+BT 1 0 0 1 0 5 Tm /F2 17 Tf 22 TL (Out of scope) Tj T* ET
+Q
+Q
+q
+1 0 0 1 57.02362 421.8661 cm
+q
+.137255 .12549 .113725 rg
+BT 1 0 0 1 0 19.8 Tm /F1 10.2 Tf 15 TL (Comments, follows, direct messaging, multimedia quotes, social sharing, moderation workflows, and) Tj T* (mobile applications.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 57.02362 387.8661 cm
+q
+.72549 .329412 .207843 rg
+BT 1 0 0 1 0 5 Tm /F2 17 Tf 22 TL (2. Users) Tj T* ET
+Q
+Q
+q
+1 0 0 1 57.02362 299.8661 cm
+q
+.72549 .329412 .207843 rg
+n 0 81 487.5591 -27 re f*
+1 1 1 rg
+n 0 54 487.5591 -27 re f*
+.972549 .952941 .917647 rg
+n 0 27 487.5591 -27 re f*
+1 1 1 rg
+BT /F2 10 Tf 12 TL ET
+q
+1 0 0 1 7 60 cm
+q
+.137255 .12549 .113725 rg
+BT 1 0 0 1 0 4.8 Tm /F1 10.2 Tf 15 TL (Role) Tj T* ET
+Q
+Q
+q
+1 0 0 1 134.5591 60 cm
+q
+.137255 .12549 .113725 rg
+BT 1 0 0 1 0 4.8 Tm /F1 10.2 Tf 15 TL (Permissions) Tj T* ET
+Q
+Q
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+q
+1 0 0 1 7 33 cm
+q
+.137255 .12549 .113725 rg
+BT 1 0 0 1 0 4.8 Tm /F1 10.2 Tf 15 TL (Guest) Tj T* ET
+Q
+Q
+q
+1 0 0 1 134.5591 33 cm
+q
+.137255 .12549 .113725 rg
+BT 1 0 0 1 0 4.8 Tm /F1 10.2 Tf 15 TL (Browse and search quotes; register; log in.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 7 6 cm
+q
+.137255 .12549 .113725 rg
+BT 1 0 0 1 0 4.8 Tm /F1 10.2 Tf 15 TL (Registered user) Tj T* ET
+Q
+Q
+q
+1 0 0 1 134.5591 6 cm
+q
+.137255 .12549 .113725 rg
+BT 1 0 0 1 0 4.8 Tm /F1 10.2 Tf 15 TL (All guest actions plus publish quotes and edit/delete owned quotes only.) Tj T* ET
+Q
+Q
+q
+1 J
+1 j
+.847059 .792157 .737255 RG
+.4 w
+n 0 81 m 487.5591 81 l S
+n 0 0 m 487.5591 0 l S
+n 0 0 m 0 81 l S
+n 487.5591 0 m 487.5591 81 l S
+n 0 54 m 487.5591 54 l S
+n 0 27 m 487.5591 27 l S
+n 127.5591 0 m 127.5591 81 l S
+Q
+Q
+Q
+ 
+
+Q
+
+q
+0.0 0.0 595.2756 841.8898 re
+W
+n
+1 0 0 1 0 0 cm
+BT
+/F1-0 12 Tf
+14.4 TL
+ET
+1 1 1 rg
+n
+0 0 595.2756 53.85827 re
+f*
+0.905882 0.866667 0.815686 RG
+n
+51.02362 42.51969 m
+544.252 42.51969 l
+S
+BT
+/F1-0 8 Tf
+9.6 TL
+ET
+0.501961 0.501961 0.501961 rg
+BT
+1 0 0 1 51.02362 28.34646 Tm
+(EQTIBAS \055 Software Requirements Specification v2\0561) Tj
+T*
+ET
+BT
+1 0 0 1 539.804 28.34646 Tm
+(2) Tj
+T*
+ET
+Q
+
+
+endstream
+endobj
+17 0 obj
+<<
+/BaseFont /Helvetica
+/Encoding /WinAnsiEncoding
+/Name /F1
+/Subtype /Type1
+/Type /Font
+>>
+endobj
+18 0 obj
+<<
+/Contents 19 0 R
+/MediaBox [ 0 0 595.2756 841.8898 ]
+/Resources <<
+/Font <<
+/F1 6 0 R
+/F1-0 20 0 R
+/F2 9 0 R
+>>
+/ProcSet [ /ImageB /ImageC /ImageI /PDF /Text ]
+>>
+/Rotate 0
+/Trans <<
+>>
+/Type /Page
+/Annots [ ]
+/Parent 2 0 R
+>>
+endobj
+19 0 obj
+<<
+/Length 7985
+>>
+stream
+q
+1 0 0 1 0 0 cm  BT /F1 12 Tf 14.4 TL ET
+q
+.905882 .866667 .815686 RG
+n 51.02362 42.51969 m 544.252 42.51969 l S
+BT /F1 8 Tf 9.6 TL ET
+.501961 .501961 .501961 rg
+BT 1 0 0 1 51.02362 28.34646 Tm (QuoteIt - Software Requirements Specification v2.0) Tj T* ET
+BT 1 0 0 1 539.804 28.34646 Tm (3) Tj T* ET
+Q
+q
+1 0 0 1 57.02362 762.8661 cm
+q
+.72549 .329412 .207843 rg
+BT 1 0 0 1 0 5 Tm /F2 17 Tf 22 TL (3. Functional Requirements) Tj T* ET
+Q
+Q
+q
+1 0 0 1 57.02362 470.8661 cm
+q
+.72549 .329412 .207843 rg
+n 0 285 484.7244 -27 re f*
+1 1 1 rg
+n 0 258 484.7244 -27 re f*
+.972549 .952941 .917647 rg
+n 0 231 484.7244 -42 re f*
+1 1 1 rg
+n 0 189 484.7244 -27 re f*
+.972549 .952941 .917647 rg
+n 0 162 484.7244 -27 re f*
+1 1 1 rg
+n 0 135 484.7244 -27 re f*
+.972549 .952941 .917647 rg
+n 0 108 484.7244 -27 re f*
+1 1 1 rg
+n 0 81 484.7244 -27 re f*
+.972549 .952941 .917647 rg
+n 0 54 484.7244 -27 re f*
+1 1 1 rg
+n 0 27 484.7244 -27 re f*
+1 1 1 rg
+BT /F2 10 Tf 12 TL ET
+q
+1 0 0 1 7 264 cm
+q
+.137255 .12549 .113725 rg
+BT 1 0 0 1 0 4.8 Tm /F1 10.2 Tf 15 TL (ID) Tj T* ET
+Q
+Q
+q
+1 0 0 1 52.35433 264 cm
+q
+.137255 .12549 .113725 rg
+BT 1 0 0 1 0 4.8 Tm /F1 10.2 Tf 15 TL (Requirement) Tj T* ET
+Q
+Q
+q
+1 0 0 1 420.8583 264 cm
+q
+.137255 .12549 .113725 rg
+BT 1 0 0 1 0 4.8 Tm /F1 10.2 Tf 15 TL (Priority) Tj T* ET
+Q
+Q
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+q
+1 0 0 1 7 237 cm
+q
+.137255 .12549 .113725 rg
+BT 1 0 0 1 0 4.8 Tm /F1 10.2 Tf 15 TL (FR-01) Tj T* ET
+Q
+Q
+q
+1 0 0 1 52.35433 237 cm
+q
+.137255 .12549 .113725 rg
+BT 1 0 0 1 0 4.8 Tm /F1 10.2 Tf 15 TL (Display all quotes publicly with content, author, and date.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 420.8583 237 cm
+q
+.137255 .12549 .113725 rg
+BT 1 0 0 1 0 4.8 Tm /F1 10.2 Tf 15 TL (Must) Tj T* ET
+Q
+Q
+q
+1 0 0 1 7 210 cm
+q
+.137255 .12549 .113725 rg
+BT 1 0 0 1 0 4.8 Tm /F1 10.2 Tf 15 TL (FR-02) Tj T* ET
+Q
+Q
+q
+1 0 0 1 52.35433 195 cm
+q
+.137255 .12549 .113725 rg
+BT 1 0 0 1 0 19.8 Tm /F1 10.2 Tf 15 TL (Register with a 2-50 letter name, unique valid email, and password of at least) Tj T* (8 characters.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 420.8583 210 cm
+q
+.137255 .12549 .113725 rg
+BT 1 0 0 1 0 4.8 Tm /F1 10.2 Tf 15 TL (Must) Tj T* ET
+Q
+Q
+q
+1 0 0 1 7 168 cm
+q
+.137255 .12549 .113725 rg
+BT 1 0 0 1 0 4.8 Tm /F1 10.2 Tf 15 TL (FR-03) Tj T* ET
+Q
+Q
+q
+1 0 0 1 52.35433 168 cm
+q
+.137255 .12549 .113725 rg
+BT 1 0 0 1 0 4.8 Tm /F1 10.2 Tf 15 TL (Authenticate registered users using email and password.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 420.8583 168 cm
+q
+.137255 .12549 .113725 rg
+BT 1 0 0 1 0 4.8 Tm /F1 10.2 Tf 15 TL (Must) Tj T* ET
+Q
+Q
+q
+1 0 0 1 7 141 cm
+q
+.137255 .12549 .113725 rg
+BT 1 0 0 1 0 4.8 Tm /F1 10.2 Tf 15 TL (FR-04) Tj T* ET
+Q
+Q
+q
+1 0 0 1 52.35433 141 cm
+q
+.137255 .12549 .113725 rg
+BT 1 0 0 1 0 4.8 Tm /F1 10.2 Tf 15 TL (Log out securely and invalidate the session.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 420.8583 141 cm
+q
+.137255 .12549 .113725 rg
+BT 1 0 0 1 0 4.8 Tm /F1 10.2 Tf 15 TL (Must) Tj T* ET
+Q
+Q
+q
+1 0 0 1 7 114 cm
+q
+.137255 .12549 .113725 rg
+BT 1 0 0 1 0 4.8 Tm /F1 10.2 Tf 15 TL (FR-05) Tj T* ET
+Q
+Q
+q
+1 0 0 1 52.35433 114 cm
+q
+.137255 .12549 .113725 rg
+BT 1 0 0 1 0 4.8 Tm /F1 10.2 Tf 15 TL (Allow authenticated users to publish quote text between 3 and 155 characters.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 420.8583 114 cm
+q
+.137255 .12549 .113725 rg
+BT 1 0 0 1 0 4.8 Tm /F1 10.2 Tf 15 TL (Must) Tj T* ET
+Q
+Q
+q
+1 0 0 1 7 87 cm
+q
+.137255 .12549 .113725 rg
+BT 1 0 0 1 0 4.8 Tm /F1 10.2 Tf 15 TL (FR-06) Tj T* ET
+Q
+Q
+q
+1 0 0 1 52.35433 87 cm
+q
+.137255 .12549 .113725 rg
+BT 1 0 0 1 0 4.8 Tm /F1 10.2 Tf 15 TL (Allow only the owner to edit a quote.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 420.8583 87 cm
+q
+.137255 .12549 .113725 rg
+BT 1 0 0 1 0 4.8 Tm /F1 10.2 Tf 15 TL (Must) Tj T* ET
+Q
+Q
+q
+1 0 0 1 7 60 cm
+q
+.137255 .12549 .113725 rg
+BT 1 0 0 1 0 4.8 Tm /F1 10.2 Tf 15 TL (FR-07) Tj T* ET
+Q
+Q
+q
+1 0 0 1 52.35433 60 cm
+q
+.137255 .12549 .113725 rg
+BT 1 0 0 1 0 4.8 Tm /F1 10.2 Tf 15 TL (Allow only the owner to delete a quote.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 420.8583 60 cm
+q
+.137255 .12549 .113725 rg
+BT 1 0 0 1 0 4.8 Tm /F1 10.2 Tf 15 TL (Must) Tj T* ET
+Q
+Q
+q
+1 0 0 1 7 33 cm
+q
+.137255 .12549 .113725 rg
+BT 1 0 0 1 0 4.8 Tm /F1 10.2 Tf 15 TL (FR-08) Tj T* ET
+Q
+Q
+q
+1 0 0 1 52.35433 33 cm
+q
+.137255 .12549 .113725 rg
+BT 1 0 0 1 0 4.8 Tm /F1 10.2 Tf 15 TL (Allow guests and users to search for words within quote content.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 420.8583 33 cm
+q
+.137255 .12549 .113725 rg
+BT 1 0 0 1 0 4.8 Tm /F1 10.2 Tf 15 TL (Must) Tj T* ET
+Q
+Q
+q
+1 0 0 1 7 6 cm
+q
+.137255 .12549 .113725 rg
+BT 1 0 0 1 0 4.8 Tm /F1 10.2 Tf 15 TL (FR-09) Tj T* ET
+Q
+Q
+q
+1 0 0 1 52.35433 6 cm
+q
+.137255 .12549 .113725 rg
+BT 1 0 0 1 0 4.8 Tm /F1 10.2 Tf 15 TL (Show actionable validation and success messages.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 420.8583 6 cm
+q
+.137255 .12549 .113725 rg
+BT 1 0 0 1 0 4.8 Tm /F1 10.2 Tf 15 TL (Should) Tj T* ET
+Q
+Q
+q
+1 J
+1 j
+.847059 .792157 .737255 RG
+.4 w
+n 0 285 m 484.7244 285 l S
+n 0 0 m 484.7244 0 l S
+n 0 0 m 0 285 l S
+n 484.7244 0 m 484.7244 285 l S
+n 0 258 m 484.7244 258 l S
+n 0 231 m 484.7244 231 l S
+n 0 189 m 484.7244 189 l S
+n 0 162 m 484.7244 162 l S
+n 0 135 m 484.7244 135 l S
+n 0 108 m 484.7244 108 l S
+n 0 81 m 484.7244 81 l S
+n 0 54 m 484.7244 54 l S
+n 0 27 m 484.7244 27 l S
+n 45.35433 0 m 45.35433 285 l S
+n 413.8583 0 m 413.8583 285 l S
+Q
+Q
+Q
+q
+1 0 0 1 57.02362 436.8661 cm
+q
+.72549 .329412 .207843 rg
+BT 1 0 0 1 0 5 Tm /F2 17 Tf 22 TL (4. Validation Rules) Tj T* ET
+Q
+Q
+q
+1 0 0 1 57.02362 267.8661 cm
+q
+.72549 .329412 .207843 rg
+n 0 162 484.7244 -27 re f*
+1 1 1 rg
+n 0 135 484.7244 -27 re f*
+.972549 .952941 .917647 rg
+n 0 108 484.7244 -27 re f*
+1 1 1 rg
+n 0 81 484.7244 -27 re f*
+.972549 .952941 .917647 rg
+n 0 54 484.7244 -27 re f*
+1 1 1 rg
+n 0 27 484.7244 -27 re f*
+1 1 1 rg
+BT /F2 10 Tf 12 TL ET
+q
+1 0 0 1 7 141 cm
+q
+.137255 .12549 .113725 rg
+BT 1 0 0 1 0 4.8 Tm /F1 10.2 Tf 15 TL (Field) Tj T* ET
+Q
+Q
+q
+1 0 0 1 114.7165 141 cm
+q
+.137255 .12549 .113725 rg
+BT 1 0 0 1 0 4.8 Tm /F1 10.2 Tf 15 TL (Rules) Tj T* ET
+Q
+Q
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+q
+1 0 0 1 7 114 cm
+q
+.137255 .12549 .113725 rg
+BT 1 0 0 1 0 4.8 Tm /F1 10.2 Tf 15 TL (Name) Tj T* ET
+Q
+Q
+q
+1 0 0 1 114.7165 114 cm
+q
+.137255 .12549 .113725 rg
+BT 1 0 0 1 0 4.8 Tm /F1 10.2 Tf 15 TL (Required; string; 2-50 characters; Unicode letters and spaces only.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 7 87 cm
+q
+.137255 .12549 .113725 rg
+BT 1 0 0 1 0 4.8 Tm /F1 10.2 Tf 15 TL (Email) Tj T* ET
+Q
+Q
+q
+1 0 0 1 114.7165 87 cm
+q
+.137255 .12549 .113725 rg
+BT 1 0 0 1 0 4.8 Tm /F1 10.2 Tf 15 TL (Required; valid format; maximum 255 characters; unique.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 7 60 cm
+q
+.137255 .12549 .113725 rg
+BT 1 0 0 1 0 4.8 Tm /F1 10.2 Tf 15 TL (Password) Tj T* ET
+Q
+Q
+q
+1 0 0 1 114.7165 60 cm
+q
+.137255 .12549 .113725 rg
+BT 1 0 0 1 0 4.8 Tm /F1 10.2 Tf 15 TL (Required; string; minimum 8 characters; confirmation required at registration.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 7 33 cm
+q
+.137255 .12549 .113725 rg
+BT 1 0 0 1 0 4.8 Tm /F1 10.2 Tf 15 TL (Quote content) Tj T* ET
+Q
+Q
+q
+1 0 0 1 114.7165 33 cm
+q
+.137255 .12549 .113725 rg
+BT 1 0 0 1 0 4.8 Tm /F1 10.2 Tf 15 TL (Required; string; 3-155 characters.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 7 6 cm
+q
+.137255 .12549 .113725 rg
+BT 1 0 0 1 0 4.8 Tm /F1 10.2 Tf 15 TL (Search term) Tj T* ET
+Q
+Q
+q
+1 0 0 1 114.7165 6 cm
+q
+.137255 .12549 .113725 rg
+BT 1 0 0 1 0 4.8 Tm /F1 10.2 Tf 15 TL (Optional text query; safely bound through Eloquent.) Tj T* ET
+Q
+Q
+q
+1 J
+1 j
+.847059 .792157 .737255 RG
+.4 w
+n 0 162 m 484.7244 162 l S
+n 0 0 m 484.7244 0 l S
+n 0 0 m 0 162 l S
+n 484.7244 0 m 484.7244 162 l S
+n 0 135 m 484.7244 135 l S
+n 0 108 m 484.7244 108 l S
+n 0 81 m 484.7244 81 l S
+n 0 54 m 484.7244 54 l S
+n 0 27 m 484.7244 27 l S
+n 107.7165 0 m 107.7165 162 l S
+Q
+Q
+Q
+ 
+
+Q
+
+q
+0.0 0.0 595.2756 841.8898 re
+W
+n
+1 0 0 1 0 0 cm
+BT
+/F1-0 12 Tf
+14.4 TL
+ET
+1 1 1 rg
+n
+0 0 595.2756 53.85827 re
+f*
+0.905882 0.866667 0.815686 RG
+n
+51.02362 42.51969 m
+544.252 42.51969 l
+S
+BT
+/F1-0 8 Tf
+9.6 TL
+ET
+0.501961 0.501961 0.501961 rg
+BT
+1 0 0 1 51.02362 28.34646 Tm
+(EQTIBAS \055 Software Requirements Specification v2\0561) Tj
+T*
+ET
+BT
+1 0 0 1 539.804 28.34646 Tm
+(3) Tj
+T*
+ET
+Q
+
+
+endstream
+endobj
+20 0 obj
+<<
+/BaseFont /Helvetica
+/Encoding /WinAnsiEncoding
+/Name /F1
+/Subtype /Type1
+/Type /Font
+>>
+endobj
+21 0 obj
+<<
+/Contents 22 0 R
+/MediaBox [ 0 0 595.2756 841.8898 ]
+/Resources <<
+/Font <<
+/F1 6 0 R
+/F1-0 23 0 R
+/F2 9 0 R
+>>
+/ProcSet [ /ImageB /ImageC /ImageI /PDF /Text ]
+>>
+/Rotate 0
+/Trans <<
+>>
+/Type /Page
+/Annots [ ]
+/Parent 2 0 R
+>>
+endobj
+22 0 obj
+<<
+/Length 6272
+>>
+stream
+q
+1 0 0 1 0 0 cm  BT /F1 12 Tf 14.4 TL ET
+q
+.905882 .866667 .815686 RG
+n 51.02362 42.51969 m 544.252 42.51969 l S
+BT /F1 8 Tf 9.6 TL ET
+.501961 .501961 .501961 rg
+BT 1 0 0 1 51.02362 28.34646 Tm (QuoteIt - Software Requirements Specification v2.0) Tj T* ET
+BT 1 0 0 1 539.804 28.34646 Tm (4) Tj T* ET
+Q
+q
+1 0 0 1 57.02362 762.8661 cm
+q
+.72549 .329412 .207843 rg
+BT 1 0 0 1 0 5 Tm /F2 17 Tf 22 TL (5. Authorization and Security) Tj T* ET
+Q
+Q
+q
+1 0 0 1 57.02362 695.8661 cm
+q
+.137255 .12549 .113725 rg
+BT 1 0 0 1 0 49.8 Tm /F1 10.2 Tf 15 TL (Laravel authentication sessions protect write routes. The QuotePolicy compares the authenticated user ID) Tj T* (with the quote user_id for update and delete operations. Every state-changing HTML form includes a) Tj T* (CSRF token. Passwords are created with Laravel Hash and are never stored in plain text. Successful login) Tj T* (regenerates the session; logout invalidates it and regenerates the CSRF token.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 57.02362 661.8661 cm
+q
+.72549 .329412 .207843 rg
+BT 1 0 0 1 0 5 Tm /F2 17 Tf 22 TL (6. Data Model) Tj T* ET
+Q
+Q
+q
+1 0 0 1 57.02362 558.8661 cm
+q
+.72549 .329412 .207843 rg
+n 0 96 484.7244 -27 re f*
+1 1 1 rg
+n 0 69 484.7244 -42 re f*
+.972549 .952941 .917647 rg
+n 0 27 484.7244 -27 re f*
+1 1 1 rg
+BT /F2 10 Tf 12 TL ET
+q
+1 0 0 1 7 75 cm
+q
+.137255 .12549 .113725 rg
+BT 1 0 0 1 0 4.8 Tm /F1 10.2 Tf 15 TL (Entity) Tj T* ET
+Q
+Q
+q
+1 0 0 1 97.70866 75 cm
+q
+.137255 .12549 .113725 rg
+BT 1 0 0 1 0 4.8 Tm /F1 10.2 Tf 15 TL (Fields) Tj T* ET
+Q
+Q
+q
+1 0 0 1 358.4961 75 cm
+q
+.137255 .12549 .113725 rg
+BT 1 0 0 1 0 4.8 Tm /F1 10.2 Tf 15 TL (Relationship) Tj T* ET
+Q
+Q
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+q
+1 0 0 1 7 48 cm
+q
+.137255 .12549 .113725 rg
+BT 1 0 0 1 0 4.8 Tm /F1 10.2 Tf 15 TL (users) Tj T* ET
+Q
+Q
+q
+1 0 0 1 97.70866 33 cm
+q
+.137255 .12549 .113725 rg
+BT 1 0 0 1 0 19.8 Tm /F1 10.2 Tf 15 TL (id, name, email, password, remember_token,) Tj T* (timestamps) Tj T* ET
+Q
+Q
+q
+1 0 0 1 358.4961 48 cm
+q
+.137255 .12549 .113725 rg
+BT 1 0 0 1 0 4.8 Tm /F1 10.2 Tf 15 TL (Has many quotes) Tj T* ET
+Q
+Q
+q
+1 0 0 1 7 6 cm
+q
+.137255 .12549 .113725 rg
+BT 1 0 0 1 0 4.8 Tm /F1 10.2 Tf 15 TL (quotes) Tj T* ET
+Q
+Q
+q
+1 0 0 1 97.70866 6 cm
+q
+.137255 .12549 .113725 rg
+BT 1 0 0 1 0 4.8 Tm /F1 10.2 Tf 15 TL (id, user_id, content, timestamps) Tj T* ET
+Q
+Q
+q
+1 0 0 1 358.4961 6 cm
+q
+.137255 .12549 .113725 rg
+BT 1 0 0 1 0 4.8 Tm /F1 10.2 Tf 15 TL (Belongs to one user) Tj T* ET
+Q
+Q
+q
+1 J
+1 j
+.847059 .792157 .737255 RG
+.4 w
+n 0 96 m 484.7244 96 l S
+n 0 0 m 484.7244 0 l S
+n 0 0 m 0 96 l S
+n 484.7244 0 m 484.7244 96 l S
+n 0 69 m 484.7244 69 l S
+n 0 27 m 484.7244 27 l S
+n 90.70866 0 m 90.70866 96 l S
+n 351.4961 0 m 351.4961 96 l S
+Q
+Q
+Q
+q
+1 0 0 1 57.02362 524.8661 cm
+q
+.72549 .329412 .207843 rg
+BT 1 0 0 1 0 5 Tm /F2 17 Tf 22 TL (Database constraints) Tj T* ET
+Q
+Q
+q
+1 0 0 1 57.02362 487.8661 cm
+q
+.137255 .12549 .113725 rg
+BT 1 0 0 1 0 19.8 Tm /F1 10.2 Tf 15 TL (quotes.user_id is a foreign key referencing users.id with cascade delete. Quote content is stored as) Tj T* (VARCHAR\(155\). created_at is indexed to support the newest-first public feed.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 57.02362 453.8661 cm
+q
+.72549 .329412 .207843 rg
+BT 1 0 0 1 0 5 Tm /F2 17 Tf 22 TL (7. User Stories) Tj T* ET
+Q
+Q
+q
+1 0 0 1 57.02362 257.8661 cm
+q
+.72549 .329412 .207843 rg
+n 0 189 484.7244 -27 re f*
+1 1 1 rg
+n 0 162 484.7244 -27 re f*
+.972549 .952941 .917647 rg
+n 0 135 484.7244 -27 re f*
+1 1 1 rg
+n 0 108 484.7244 -27 re f*
+.972549 .952941 .917647 rg
+n 0 81 484.7244 -27 re f*
+1 1 1 rg
+n 0 54 484.7244 -27 re f*
+.972549 .952941 .917647 rg
+n 0 27 484.7244 -27 re f*
+1 1 1 rg
+BT /F2 10 Tf 12 TL ET
+q
+1 0 0 1 7 168 cm
+q
+.137255 .12549 .113725 rg
+BT 1 0 0 1 0 4.8 Tm /F1 10.2 Tf 15 TL (ID) Tj T* ET
+Q
+Q
+q
+1 0 0 1 75.0315 168 cm
+q
+.137255 .12549 .113725 rg
+BT 1 0 0 1 0 4.8 Tm /F1 10.2 Tf 15 TL (Story / Acceptance summary) Tj T* ET
+Q
+Q
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+q
+1 0 0 1 7 141 cm
+q
+.137255 .12549 .113725 rg
+BT 1 0 0 1 0 4.8 Tm /F1 10.2 Tf 15 TL (US-01) Tj T* ET
+Q
+Q
+q
+1 0 0 1 75.0315 141 cm
+q
+.137255 .12549 .113725 rg
+BT 1 0 0 1 0 4.8 Tm /F1 10.2 Tf 15 TL (As a guest, I can browse all quotes without management controls.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 7 114 cm
+q
+.137255 .12549 .113725 rg
+BT 1 0 0 1 0 4.8 Tm /F1 10.2 Tf 15 TL (US-02) Tj T* ET
+Q
+Q
+q
+1 0 0 1 75.0315 114 cm
+q
+.137255 .12549 .113725 rg
+BT 1 0 0 1 0 4.8 Tm /F1 10.2 Tf 15 TL (As a guest, I can create a valid account and am signed in immediately.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 7 87 cm
+q
+.137255 .12549 .113725 rg
+BT 1 0 0 1 0 4.8 Tm /F1 10.2 Tf 15 TL (US-03) Tj T* ET
+Q
+Q
+q
+1 0 0 1 75.0315 87 cm
+q
+.137255 .12549 .113725 rg
+BT 1 0 0 1 0 4.8 Tm /F1 10.2 Tf 15 TL (As a registered user, I can log in and log out securely.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 7 60 cm
+q
+.137255 .12549 .113725 rg
+BT 1 0 0 1 0 4.8 Tm /F1 10.2 Tf 15 TL (US-04) Tj T* ET
+Q
+Q
+q
+1 0 0 1 75.0315 60 cm
+q
+.137255 .12549 .113725 rg
+BT 1 0 0 1 0 4.8 Tm /F1 10.2 Tf 15 TL (As a user, I can publish a valid quote and see it in the feed.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 7 33 cm
+q
+.137255 .12549 .113725 rg
+BT 1 0 0 1 0 4.8 Tm /F1 10.2 Tf 15 TL (US-05) Tj T* ET
+Q
+Q
+q
+1 0 0 1 75.0315 33 cm
+q
+.137255 .12549 .113725 rg
+BT 1 0 0 1 0 4.8 Tm /F1 10.2 Tf 15 TL (As an owner, I can edit or delete my quote; other users receive HTTP 403.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 7 6 cm
+q
+.137255 .12549 .113725 rg
+BT 1 0 0 1 0 4.8 Tm /F1 10.2 Tf 15 TL (US-06) Tj T* ET
+Q
+Q
+q
+1 0 0 1 75.0315 6 cm
+q
+.137255 .12549 .113725 rg
+BT 1 0 0 1 0 4.8 Tm /F1 10.2 Tf 15 TL (As any visitor, I can search quote content and clear the search.) Tj T* ET
+Q
+Q
+q
+1 J
+1 j
+.847059 .792157 .737255 RG
+.4 w
+n 0 189 m 484.7244 189 l S
+n 0 0 m 484.7244 0 l S
+n 0 0 m 0 189 l S
+n 484.7244 0 m 484.7244 189 l S
+n 0 162 m 484.7244 162 l S
+n 0 135 m 484.7244 135 l S
+n 0 108 m 484.7244 108 l S
+n 0 81 m 484.7244 81 l S
+n 0 54 m 484.7244 54 l S
+n 0 27 m 484.7244 27 l S
+n 68.0315 0 m 68.0315 189 l S
+Q
+Q
+Q
+ 
+
+Q
+
+q
+0.0 0.0 595.2756 841.8898 re
+W
+n
+1 0 0 1 0 0 cm
+BT
+/F1-0 12 Tf
+14.4 TL
+ET
+1 1 1 rg
+n
+0 0 595.2756 53.85827 re
+f*
+0.905882 0.866667 0.815686 RG
+n
+51.02362 42.51969 m
+544.252 42.51969 l
+S
+BT
+/F1-0 8 Tf
+9.6 TL
+ET
+0.501961 0.501961 0.501961 rg
+BT
+1 0 0 1 51.02362 28.34646 Tm
+(EQTIBAS \055 Software Requirements Specification v2\0561) Tj
+T*
+ET
+BT
+1 0 0 1 539.804 28.34646 Tm
+(4) Tj
+T*
+ET
+Q
+
+
+endstream
+endobj
+23 0 obj
+<<
+/BaseFont /Helvetica
+/Encoding /WinAnsiEncoding
+/Name /F1
+/Subtype /Type1
+/Type /Font
+>>
+endobj
+24 0 obj
+<<
+/Contents 25 0 R
+/MediaBox [ 0 0 595.2756 841.8898 ]
+/Resources <<
+/Font <<
+/F1 6 0 R
+/F1-0 26 0 R
+/F2 9 0 R
+>>
+/ProcSet [ /ImageB /ImageC /ImageI /PDF /Text ]
+>>
+/Rotate 0
+/Trans <<
+>>
+/Type /Page
+/Annots [ ]
+/Parent 2 0 R
+>>
+endobj
+25 0 obj
+<<
+/Length 5062
+>>
+stream
+q
+1 0 0 1 0 0 cm  BT /F1 12 Tf 14.4 TL ET
+q
+.905882 .866667 .815686 RG
+n 51.02362 42.51969 m 544.252 42.51969 l S
+BT /F1 8 Tf 9.6 TL ET
+.501961 .501961 .501961 rg
+BT 1 0 0 1 51.02362 28.34646 Tm (QuoteIt - Software Requirements Specification v2.0) Tj T* ET
+BT 1 0 0 1 539.804 28.34646 Tm (5) Tj T* ET
+Q
+q
+1 0 0 1 57.02362 762.8661 cm
+q
+.72549 .329412 .207843 rg
+BT 1 0 0 1 0 5 Tm /F2 17 Tf 22 TL (8. Non-Functional Requirements) Tj T* ET
+Q
+Q
+q
+1 0 0 1 57.02362 563.8661 cm
+q
+.72549 .329412 .207843 rg
+n 0 192 484.7244 -27 re f*
+1 1 1 rg
+n 0 165 484.7244 -42 re f*
+.972549 .952941 .917647 rg
+n 0 123 484.7244 -27 re f*
+1 1 1 rg
+n 0 96 484.7244 -27 re f*
+.972549 .952941 .917647 rg
+n 0 69 484.7244 -27 re f*
+1 1 1 rg
+n 0 42 484.7244 -42 re f*
+1 1 1 rg
+BT /F2 10 Tf 12 TL ET
+q
+1 0 0 1 7 171 cm
+q
+.137255 .12549 .113725 rg
+BT 1 0 0 1 0 4.8 Tm /F1 10.2 Tf 15 TL (ID) Tj T* ET
+Q
+Q
+q
+1 0 0 1 58.02362 171 cm
+q
+.137255 .12549 .113725 rg
+BT 1 0 0 1 0 4.8 Tm /F1 10.2 Tf 15 TL (Category) Tj T* ET
+Q
+Q
+q
+1 0 0 1 143.063 171 cm
+q
+.137255 .12549 .113725 rg
+BT 1 0 0 1 0 4.8 Tm /F1 10.2 Tf 15 TL (Requirement) Tj T* ET
+Q
+Q
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+q
+1 0 0 1 7 144 cm
+q
+.137255 .12549 .113725 rg
+BT 1 0 0 1 0 4.8 Tm /F1 10.2 Tf 15 TL (NFR-01) Tj T* ET
+Q
+Q
+q
+1 0 0 1 58.02362 144 cm
+q
+.137255 .12549 .113725 rg
+BT 1 0 0 1 0 4.8 Tm /F1 10.2 Tf 15 TL (Performance) Tj T* ET
+Q
+Q
+q
+1 0 0 1 143.063 129 cm
+q
+.137255 .12549 .113725 rg
+BT 1 0 0 1 0 19.8 Tm /F1 10.2 Tf 15 TL (Target first-page load below 3 seconds under normal workshop) Tj T* (deployment conditions. Use eager loading and pagination.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 7 102 cm
+q
+.137255 .12549 .113725 rg
+BT 1 0 0 1 0 4.8 Tm /F1 10.2 Tf 15 TL (NFR-02) Tj T* ET
+Q
+Q
+q
+1 0 0 1 58.02362 102 cm
+q
+.137255 .12549 .113725 rg
+BT 1 0 0 1 0 4.8 Tm /F1 10.2 Tf 15 TL (Security) Tj T* ET
+Q
+Q
+q
+1 0 0 1 143.063 102 cm
+q
+.137255 .12549 .113725 rg
+BT 1 0 0 1 0 4.8 Tm /F1 10.2 Tf 15 TL (Hash passwords; enforce CSRF, validation, and ownership authorization.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 7 75 cm
+q
+.137255 .12549 .113725 rg
+BT 1 0 0 1 0 4.8 Tm /F1 10.2 Tf 15 TL (NFR-03) Tj T* ET
+Q
+Q
+q
+1 0 0 1 58.02362 75 cm
+q
+.137255 .12549 .113725 rg
+BT 1 0 0 1 0 4.8 Tm /F1 10.2 Tf 15 TL (Usability) Tj T* ET
+Q
+Q
+q
+1 0 0 1 143.063 75 cm
+q
+.137255 .12549 .113725 rg
+BT 1 0 0 1 0 4.8 Tm /F1 10.2 Tf 15 TL (A new user should publish a first quote in under one minute.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 7 48 cm
+q
+.137255 .12549 .113725 rg
+BT 1 0 0 1 0 4.8 Tm /F1 10.2 Tf 15 TL (NFR-04) Tj T* ET
+Q
+Q
+q
+1 0 0 1 58.02362 48 cm
+q
+.137255 .12549 .113725 rg
+BT 1 0 0 1 0 4.8 Tm /F1 10.2 Tf 15 TL (Responsive UI) Tj T* ET
+Q
+Q
+q
+1 0 0 1 143.063 48 cm
+q
+.137255 .12549 .113725 rg
+BT 1 0 0 1 0 4.8 Tm /F1 10.2 Tf 15 TL (Support mobile and desktop layouts.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 7 21 cm
+q
+.137255 .12549 .113725 rg
+BT 1 0 0 1 0 4.8 Tm /F1 10.2 Tf 15 TL (NFR-05) Tj T* ET
+Q
+Q
+q
+1 0 0 1 58.02362 21 cm
+q
+.137255 .12549 .113725 rg
+BT 1 0 0 1 0 4.8 Tm /F1 10.2 Tf 15 TL (Maintainability) Tj T* ET
+Q
+Q
+q
+1 0 0 1 143.063 6 cm
+q
+.137255 .12549 .113725 rg
+BT 1 0 0 1 0 19.8 Tm /F1 10.2 Tf 15 TL (Use Laravel MVC, Eloquent relationships, migrations, Blade inheritance,) Tj T* (and reusable components.) Tj T* ET
+Q
+Q
+q
+1 J
+1 j
+.847059 .792157 .737255 RG
+.4 w
+n 0 192 m 484.7244 192 l S
+n 0 0 m 484.7244 0 l S
+n 0 0 m 0 192 l S
+n 484.7244 0 m 484.7244 192 l S
+n 0 165 m 484.7244 165 l S
+n 0 123 m 484.7244 123 l S
+n 0 96 m 484.7244 96 l S
+n 0 69 m 484.7244 69 l S
+n 0 42 m 484.7244 42 l S
+n 51.02362 0 m 51.02362 192 l S
+n 136.063 0 m 136.063 192 l S
+Q
+Q
+Q
+q
+1 0 0 1 57.02362 529.8661 cm
+q
+.72549 .329412 .207843 rg
+BT 1 0 0 1 0 5 Tm /F2 17 Tf 22 TL (9. Interface Requirements) Tj T* ET
+Q
+Q
+q
+1 0 0 1 57.02362 462.8661 cm
+q
+.137255 .12549 .113725 rg
+BT 1 0 0 1 0 49.8 Tm /F1 10.2 Tf 15 TL (The interface uses a warm editorial visual system inspired by the supplied QuoteIt materials: cream) Tj T* (background, rust accent, serif display headings, clear cards, responsive grids, inline field guidance, and) Tj T* (visible status messages. Pages include the public feed/search, registration, login, quote editor, and) Tj T* (reusable quote cards.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 57.02362 428.8661 cm
+q
+.72549 .329412 .207843 rg
+BT 1 0 0 1 0 5 Tm /F2 17 Tf 22 TL (10. Test Coverage) Tj T* ET
+Q
+Q
+q
+1 0 0 1 57.02362 376.8661 cm
+q
+.137255 .12549 .113725 rg
+BT 1 0 0 1 0 34.8 Tm /F1 10.2 Tf 15 TL (Feature tests are supplied for registration, password hashing, login/logout, guest access, authenticated) Tj T* (creation, owner edit/delete, cross-user denial, public display, search, and validation boundaries. The test) Tj T* (suite must be executed after Composer dependencies are installed.) Tj T* ET
+Q
+Q
+ 
+
+Q
+
+q
+0.0 0.0 595.2756 841.8898 re
+W
+n
+1 0 0 1 0 0 cm
+BT
+/F1-0 12 Tf
+14.4 TL
+ET
+1 1 1 rg
+n
+0 0 595.2756 53.85827 re
+f*
+0.905882 0.866667 0.815686 RG
+n
+51.02362 42.51969 m
+544.252 42.51969 l
+S
+BT
+/F1-0 8 Tf
+9.6 TL
+ET
+0.501961 0.501961 0.501961 rg
+BT
+1 0 0 1 51.02362 28.34646 Tm
+(EQTIBAS \055 Software Requirements Specification v2\0561) Tj
+T*
+ET
+BT
+1 0 0 1 539.804 28.34646 Tm
+(5) Tj
+T*
+ET
+Q
+
+
+endstream
+endobj
+26 0 obj
+<<
+/BaseFont /Helvetica
+/Encoding /WinAnsiEncoding
+/Name /F1
+/Subtype /Type1
+/Type /Font
+>>
+endobj
+27 0 obj
+<<
+/Contents 28 0 R
+/MediaBox [ 0 0 595.2756 841.8898 ]
+/Resources <<
+/Font <<
+/F1 6 0 R
+/F1-0 29 0 R
+/F2 9 0 R
+>>
+/ProcSet [ /ImageB /ImageC /ImageI /PDF /Text ]
+>>
+/Rotate 0
+/Trans <<
+>>
+/Type /Page
+/Annots [ ]
+/Parent 2 0 R
+>>
+endobj
+28 0 obj
+<<
+/Length 4700
+>>
+stream
+q
+1 0 0 1 0 0 cm  BT /F1 12 Tf 14.4 TL ET
+q
+.905882 .866667 .815686 RG
+n 51.02362 42.51969 m 544.252 42.51969 l S
+BT /F1 8 Tf 9.6 TL ET
+.501961 .501961 .501961 rg
+BT 1 0 0 1 51.02362 28.34646 Tm (QuoteIt - Software Requirements Specification v2.0) Tj T* ET
+BT 1 0 0 1 539.804 28.34646 Tm (6) Tj T* ET
+Q
+q
+1 0 0 1 57.02362 762.8661 cm
+q
+.72549 .329412 .207843 rg
+BT 1 0 0 1 0 5 Tm /F2 17 Tf 22 TL (11. Acceptance Criteria) Tj T* ET
+Q
+Q
+q
+1 0 0 1 57.02362 551.8661 cm
+q
+.72549 .329412 .207843 rg
+n 0 204 484.7244 -27 re f*
+1 1 1 rg
+n 0 177 484.7244 -27 re f*
+.972549 .952941 .917647 rg
+n 0 150 484.7244 -42 re f*
+1 1 1 rg
+n 0 108 484.7244 -27 re f*
+.972549 .952941 .917647 rg
+n 0 81 484.7244 -27 re f*
+1 1 1 rg
+n 0 54 484.7244 -27 re f*
+.972549 .952941 .917647 rg
+n 0 27 484.7244 -27 re f*
+1 1 1 rg
+BT /F2 10 Tf 12 TL ET
+q
+1 0 0 1 7 183 cm
+q
+.137255 .12549 .113725 rg
+BT 1 0 0 1 0 4.8 Tm /F1 10.2 Tf 15 TL (Area) Tj T* ET
+Q
+Q
+q
+1 0 0 1 120.3858 183 cm
+q
+.137255 .12549 .113725 rg
+BT 1 0 0 1 0 4.8 Tm /F1 10.2 Tf 15 TL (Acceptance criterion) Tj T* ET
+Q
+Q
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+q
+1 0 0 1 7 156 cm
+q
+.137255 .12549 .113725 rg
+BT 1 0 0 1 0 4.8 Tm /F1 10.2 Tf 15 TL (Public feed) Tj T* ET
+Q
+Q
+q
+1 0 0 1 120.3858 156 cm
+q
+.137255 .12549 .113725 rg
+BT 1 0 0 1 0 4.8 Tm /F1 10.2 Tf 15 TL (HTTP 200; quotes show content, author, and date.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 7 129 cm
+q
+.137255 .12549 .113725 rg
+BT 1 0 0 1 0 4.8 Tm /F1 10.2 Tf 15 TL (Authentication) Tj T* ET
+Q
+Q
+q
+1 0 0 1 120.3858 114 cm
+q
+.137255 .12549 .113725 rg
+BT 1 0 0 1 0 19.8 Tm /F1 10.2 Tf 15 TL (Valid registration/login succeeds; invalid data returns field errors; logout ends) Tj T* (authentication.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 7 87 cm
+q
+.137255 .12549 .113725 rg
+BT 1 0 0 1 0 4.8 Tm /F1 10.2 Tf 15 TL (Quote create) Tj T* ET
+Q
+Q
+q
+1 0 0 1 120.3858 87 cm
+q
+.137255 .12549 .113725 rg
+BT 1 0 0 1 0 4.8 Tm /F1 10.2 Tf 15 TL (Guest is redirected to login; authenticated valid input persists.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 7 60 cm
+q
+.137255 .12549 .113725 rg
+BT 1 0 0 1 0 4.8 Tm /F1 10.2 Tf 15 TL (Ownership) Tj T* ET
+Q
+Q
+q
+1 0 0 1 120.3858 60 cm
+q
+.137255 .12549 .113725 rg
+BT 1 0 0 1 0 4.8 Tm /F1 10.2 Tf 15 TL (Owner operations succeed; non-owner update/delete returns HTTP 403.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 7 33 cm
+q
+.137255 .12549 .113725 rg
+BT 1 0 0 1 0 4.8 Tm /F1 10.2 Tf 15 TL (Search) Tj T* ET
+Q
+Q
+q
+1 0 0 1 120.3858 33 cm
+q
+.137255 .12549 .113725 rg
+BT 1 0 0 1 0 4.8 Tm /F1 10.2 Tf 15 TL (Matching content appears; nonmatching content is absent.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 7 6 cm
+q
+.137255 .12549 .113725 rg
+BT 1 0 0 1 0 4.8 Tm /F1 10.2 Tf 15 TL (Validation) Tj T* ET
+Q
+Q
+q
+1 0 0 1 120.3858 6 cm
+q
+.137255 .12549 .113725 rg
+BT 1 0 0 1 0 4.8 Tm /F1 10.2 Tf 15 TL (Names, emails, passwords, and quote length boundaries are enforced.) Tj T* ET
+Q
+Q
+q
+1 J
+1 j
+.847059 .792157 .737255 RG
+.4 w
+n 0 204 m 484.7244 204 l S
+n 0 0 m 484.7244 0 l S
+n 0 0 m 0 204 l S
+n 484.7244 0 m 484.7244 204 l S
+n 0 177 m 484.7244 177 l S
+n 0 150 m 484.7244 150 l S
+n 0 108 m 484.7244 108 l S
+n 0 81 m 484.7244 81 l S
+n 0 54 m 484.7244 54 l S
+n 0 27 m 484.7244 27 l S
+n 113.3858 0 m 113.3858 204 l S
+Q
+Q
+Q
+q
+1 0 0 1 57.02362 517.8661 cm
+q
+.72549 .329412 .207843 rg
+BT 1 0 0 1 0 5 Tm /F2 17 Tf 22 TL (12. Deployment Assumptions) Tj T* ET
+Q
+Q
+q
+1 0 0 1 57.02362 465.8661 cm
+q
+.137255 .12549 .113725 rg
+BT 1 0 0 1 0 34.8 Tm /F1 10.2 Tf 15 TL -0.110128 Tw (PHP 8.1 or newer is recommended for current secure Laravel 9 dependencies, with Composer 2, MySQL 8) Tj T* 0 Tw (or MariaDB, required PHP extensions, and a writable storage directory. Secrets belong in .env, which is) Tj T* (excluded from the delivery ZIP.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 57.02362 431.8661 cm
+q
+.72549 .329412 .207843 rg
+BT 1 0 0 1 0 5 Tm /F2 17 Tf 22 TL (13. Traceability) Tj T* ET
+Q
+Q
+q
+1 0 0 1 57.02362 379.8661 cm
+q
+.137255 .12549 .113725 rg
+BT 1 0 0 1 0 34.8 Tm /F1 10.2 Tf 15 TL (FR-01 maps to public feed tests; FR-02 to registration and validation tests; FR-03/04 to authentication) Tj T* (tests; FR-05 to quote creation and validation tests; FR-06/07 to owner and non-owner authorization tests;) Tj T* (FR-08 to the search test.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 57.02362 357.8661 cm
+q
+.137255 .12549 .113725 rg
+BT 1 0 0 1 0 4.8 Tm /F1 10.2 Tf 15 TL 194.9743 0 Td (End of specification.) Tj T* -194.9743 0 Td ET
+Q
+Q
+ 
+
+Q
+
+q
+0.0 0.0 595.2756 841.8898 re
+W
+n
+1 0 0 1 0 0 cm
+BT
+/F1-0 12 Tf
+14.4 TL
+ET
+1 1 1 rg
+n
+0 0 595.2756 53.85827 re
+f*
+0.905882 0.866667 0.815686 RG
+n
+51.02362 42.51969 m
+544.252 42.51969 l
+S
+BT
+/F1-0 8 Tf
+9.6 TL
+ET
+0.501961 0.501961 0.501961 rg
+BT
+1 0 0 1 51.02362 28.34646 Tm
+(EQTIBAS \055 Software Requirements Specification v2\0561) Tj
+T*
+ET
+BT
+1 0 0 1 539.804 28.34646 Tm
+(6) Tj
+T*
+ET
+Q
+
+
+endstream
+endobj
+29 0 obj
+<<
+/BaseFont /Helvetica
+/Encoding /WinAnsiEncoding
+/Name /F1
+/Subtype /Type1
+/Type /Font
+>>
+endobj
+30 0 obj
+<<
+/Contents 31 0 R
+/MediaBox [ 0 0 595.2756 841.8898 ]
+/Resources <<
+/Font <<
+/F1 32 0 R
+/F1-0 33 0 R
+/F2 34 0 R
+/F2-0 35 0 R
+>>
+/XObject <<
+/FormXob.db1f5f0b2200616ef1459e8df40b18f1 36 0 R
+>>
+/ProcSet [ /ImageB /ImageC /ImageI /PDF /Text ]
+>>
+/Rotate 0
+/Trans <<
+>>
+/Type /Page
+/Annots [ ]
+/Parent 2 0 R
+>>
+endobj
+31 0 obj
+<<
+/Length 4895
+>>
+stream
+q
+1 0 0 1 0 0 cm  BT /F1 12 Tf 14.4 TL ET
+q
+1 0 0 1 57.02362 762.8661 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 4 Tm /F2 18 Tf 22 TL 40.58917 0 Td (QuoteIt SRS - Final Implementation Addendum) Tj T* -40.58917 0 Td ET
+Q
+Q
+q
+1 0 0 1 57.02362 741.8661 cm
+q
+.137255 .12549 .113725 rg
+BT 1 0 0 1 0 4.5 Tm /F1 10.5 Tf 15 TL (Version 2.1 | 31 October 2026) Tj T* ET
+Q
+Q
+q
+1 0 0 1 57.02362 711.189 cm
+Q
+q
+1 0 0 1 57.02362 689.189 cm
+q
+.72549 .329412 .207843 rg
+BT 1 0 0 1 0 4 Tm /F2 18 Tf 22 TL (Implementation baseline) Tj T* ET
+Q
+Q
+q
+1 0 0 1 57.02362 634.189 cm
+q
+.137255 .12549 .113725 rg
+BT 1 0 0 1 0 34.5 Tm /F1 10.5 Tf 15 TL (The delivered system uses Laravel Framework 12.70.2, PHP 8.3.36, Blade, Eloquent ORM, and) Tj T* -0.080565 Tw (MySQL-compatible migrations. This addendum supersedes any earlier deployment note that referenced) Tj T* 0 Tw (Laravel 9 or PHP 8.1.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 57.02362 604.189 cm
+q
+.72549 .329412 .207843 rg
+BT 1 0 0 1 0 4 Tm /F2 18 Tf 22 TL (Arabic localization and RTL) Tj T* ET
+Q
+Q
+q
+1 0 0 1 57.02362 534.189 cm
+q
+.137255 .12549 .113725 rg
+BT 1 0 0 1 0 49.5 Tm /F1 10.5 Tf 15 TL (All user-facing pages, labels, hints, success messages, validation messages, empty states, search) Tj T* (controls, and management actions are presented in Arabic. The HTML document uses right-to-left) Tj T* (direction and a dedicated RTL stylesheet. Email and password inputs retain left-to-right entry where) Tj T* (appropriate.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 57.02362 504.189 cm
+q
+.72549 .329412 .207843 rg
+BT 1 0 0 1 0 4 Tm /F2 18 Tf 22 TL (Demo content) Tj T* ET
+Q
+Q
+q
+1 0 0 1 57.02362 464.189 cm
+q
+.137255 .12549 .113725 rg
+BT 1 0 0 1 0 19.5 Tm /F1 10.5 Tf 15 TL (The database seeder creates three Arabic-named demo users and six Arabic quotations. Seeding is) Tj T* (idempotent through updateOrCreate and firstOrCreate.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 57.02362 434.189 cm
+q
+.72549 .329412 .207843 rg
+BT 1 0 0 1 0 4 Tm /F2 18 Tf 22 TL (Final verification) Tj T* ET
+Q
+Q
+q
+1 0 0 1 59.52756 249.189 cm
+q
+.72549 .329412 .207843 rg
+n 0 175 476.2205 -25 re f*
+1 1 1 rg
+BT /F1 10 Tf 12 TL ET
+q
+1 0 0 1 6 155 cm
+q
+.137255 .12549 .113725 rg
+BT 1 0 0 1 0 4.5 Tm /F1 10.5 Tf 15 TL (Check) Tj T* ET
+Q
+Q
+q
+1 0 0 1 142.063 155 cm
+q
+.137255 .12549 .113725 rg
+BT 1 0 0 1 0 4.5 Tm /F1 10.5 Tf 15 TL (Observed result) Tj T* ET
+Q
+Q
+0 0 0 rg
+q
+1 0 0 1 6 130 cm
+q
+.137255 .12549 .113725 rg
+BT 1 0 0 1 0 4.5 Tm /F1 10.5 Tf 15 TL (Automated tests) Tj T* ET
+Q
+Q
+q
+1 0 0 1 142.063 130 cm
+q
+.137255 .12549 .113725 rg
+BT 1 0 0 1 0 4.5 Tm /F1 10.5 Tf 15 TL (14 passed; 41 assertions; 0 failures) Tj T* ET
+Q
+Q
+q
+1 0 0 1 6 105 cm
+q
+.137255 .12549 .113725 rg
+BT 1 0 0 1 0 4.5 Tm /F1 10.5 Tf 15 TL (Database migrations) Tj T* ET
+Q
+Q
+q
+1 0 0 1 142.063 105 cm
+q
+.137255 .12549 .113725 rg
+BT 1 0 0 1 0 4.5 Tm /F1 10.5 Tf 15 TL (Successful on isolated SQLite verification database) Tj T* ET
+Q
+Q
+q
+1 0 0 1 6 80 cm
+q
+.137255 .12549 .113725 rg
+BT 1 0 0 1 0 4.5 Tm /F1 10.5 Tf 15 TL (Arabic demo seeder) Tj T* ET
+Q
+Q
+q
+1 0 0 1 142.063 80 cm
+q
+.137255 .12549 .113725 rg
+BT 1 0 0 1 0 4.5 Tm /F1 10.5 Tf 15 TL (3 users and 6 quotes created) Tj T* ET
+Q
+Q
+q
+1 0 0 1 6 55 cm
+q
+.137255 .12549 .113725 rg
+BT 1 0 0 1 0 4.5 Tm /F1 10.5 Tf 15 TL (Application routes) Tj T* ET
+Q
+Q
+q
+1 0 0 1 142.063 55 cm
+q
+.137255 .12549 .113725 rg
+BT 1 0 0 1 0 4.5 Tm /F1 10.5 Tf 15 TL (10 web routes registered) Tj T* ET
+Q
+Q
+q
+1 0 0 1 6 30 cm
+q
+.137255 .12549 .113725 rg
+BT 1 0 0 1 0 4.5 Tm /F1 10.5 Tf 15 TL (Authorization) Tj T* ET
+Q
+Q
+q
+1 0 0 1 142.063 30 cm
+q
+.137255 .12549 .113725 rg
+BT 1 0 0 1 0 4.5 Tm /F1 10.5 Tf 15 TL (Owner update/delete accepted; cross-user operations rejected) Tj T* ET
+Q
+Q
+q
+1 0 0 1 6 5 cm
+q
+.137255 .12549 .113725 rg
+BT 1 0 0 1 0 4.5 Tm /F1 10.5 Tf 15 TL (Search and validation) Tj T* ET
+Q
+Q
+q
+1 0 0 1 142.063 5 cm
+q
+.137255 .12549 .113725 rg
+BT 1 0 0 1 0 4.5 Tm /F1 10.5 Tf 15 TL (Feature tests passed) Tj T* ET
+Q
+Q
+q
+1 J
+1 j
+.847059 .792157 .737255 RG
+.4 w
+n 0 175 m 476.2205 175 l S
+n 0 0 m 476.2205 0 l S
+n 0 0 m 0 175 l S
+n 476.2205 0 m 476.2205 175 l S
+n 0 150 m 476.2205 150 l S
+n 0 125 m 476.2205 125 l S
+n 0 100 m 476.2205 100 l S
+n 0 75 m 476.2205 75 l S
+n 0 50 m 476.2205 50 l S
+n 0 25 m 476.2205 25 l S
+n 136.063 0 m 136.063 175 l S
+Q
+Q
+Q
+ 
+
+Q
+
+q
+0.0 0.0 595.2756 841.8898 re
+W
+n
+1 0 0 1 0 0 cm
+BT
+/F1-0 12 Tf
+14.4 TL
+ET
+1 1 1 rg
+n
+0 0 595.2756 53.85827 re
+f*
+0.905882 0.866667 0.815686 RG
+n
+51.02362 42.51969 m
+544.252 42.51969 l
+S
+BT
+/F1-0 8 Tf
+9.6 TL
+ET
+0.501961 0.501961 0.501961 rg
+BT
+1 0 0 1 51.02362 28.34646 Tm
+(EQTIBAS \055 Software Requirements Specification v2\0561) Tj
+T*
+ET
+BT
+1 0 0 1 539.804 28.34646 Tm
+(7) Tj
+T*
+ET
+1 1 1 rg
+n
+42.51969 734.1732 510.2362 70.86614 re
+f*
+q
+226.7717 0 0 42.51969 184.252 741.2598 cm
+/FormXob.db1f5f0b2200616ef1459e8df40b18f1 Do
+Q
+0.72549 0.329412 0.207843 rg
+BT
+/F2-0 13 Tf
+15.6 TL
+ET
+BT
+1 0 0 1 132.6028 737.0079 Tm
+(FINAL IMPLEMENTATION ADDENDUM \055 VERSION 2\0561) Tj
+T*
+ET
+Q
+
+
+endstream
+endobj
+32 0 obj
+<<
+/BaseFont /Helvetica
+/Encoding /WinAnsiEncoding
+/Name /F1
+/Subtype /Type1
+/Type /Font
+>>
+endobj
+33 0 obj
+<<
+/BaseFont /Helvetica
+/Encoding /WinAnsiEncoding
+/Name /F1
+/Subtype /Type1
+/Type /Font
+>>
+endobj
+34 0 obj
+<<
+/BaseFont /Helvetica-Bold
+/Encoding /WinAnsiEncoding
+/Name /F2
+/Subtype /Type1
+/Type /Font
+>>
+endobj
+35 0 obj
+<<
+/BaseFont /Helvetica-Bold
+/Encoding /WinAnsiEncoding
+/Name /F2
+/Subtype /Type1
+/Type /Font
+>>
+endobj
+36 0 obj
+<<
+/BitsPerComponent 8
+/ColorSpace /DeviceRGB
+/Filter [ /ASCII85Decode /FlateDecode ]
+/Height 150
+/SMask 37 0 R
+/Subtype /Image
+/Type /XObject
+/Width 800
+/Length 1597
+>>
+stream
+Gb"0W9lc^q'F%BN,/Yd07Rj!&IbFbP![:[LgqO*rD9aRW;3;?j%.mQojn@pAzzzzzzzzzzzzzzzzzzzzzzzzzzzzz!"1kqhOd!7gP<76cBAb>!%9!t!<=ZD^&e<.mqIqe^.+I&=Zg'!215It#mUtX#G40[Y_Ic8N.XnJ!*I.T"3/0T%fi]ihuVlrdg#m(E:ABtnEC#TCH-RS3;E+HJ2K/%0[AKYIm*JVUcH?go(qD.V.uMiV[ido=c3=@^R+tQO8UG>F`6@jX2X<*!'Ae;^j,.=am/>;?/6tKXgRBq!;kAK^dtY6h-E7W?eGJ7RQ^_uKRY'tVA3%i-g,1]<IEV:H<\eI]k982jXU==E=M$1U7K+R)hitV,@:HO95,\ZrHNUe%Tg3VG*9$/J/,GSYGs(U538j+FQ=qP?u`:ON*,UMT=[k-G$+E1=KP7=!,+nR!TRDrS>'e(?$&Q<9HO8eK>Q]r9#)js=/YgK=)?MiV@N[n_%H7g\2ed]pmPWm(KN'8#6=JUS)p\QF,%:_#DYXIaDKmE)jrkiYQs&:?d4%L0Xd0)C1[5A5ZVETA][[KCZha+V,Q?PItbj@;mZ@.V8$71$37f"@),;l)aAS]\isljq)Ip[!:4%]pUr7Xgo5_Hm3H%u93=!1aH<Y+@)p-B:="!1Naql7E?;B4ebe%uRMW6i.fe5"WYb]aU<U^<BrrkG`N#11LFn?Di@-mPY9L1F"f><BZ/dD8fV\n&Mkg(tdV1geJ+U.YkL,;dhH0"AT*XV\U+`<WmQola3;3s@]nb2Vj+GNV!3i0<Em<&..^C="S&^+24QZAgr?c%Nq6Sa*d:m#q0jDcXqHj9=%Y`)c(14hf"Lcs;U8-AcTaf.X`X&E-kfR"T\*ggpQ[4oMZ"KMs90[6e!\NeCRT4dSZ[;oV)g\=8W-#DgY[\a<_a`e6nbT3<b*7C2MRuc74$OeHVLP2rrds^=rjKGR47;=okL/8ZS>u1Q)WpoZA>aP+9>k66$33!VaQml#UTJqJ6d(+14.E_ms%W&!!,SV,I$IgOM:R?0PAA:CXT6.g>0g9,ZL\<^p=o8*/*N/"!+81;k,WU;cjDKPP8S!,7Gmp+m7o!8!PjGA*MqoK\,Z>gVecjuU`O@.X".r`.UN4lL2&etc5<Q@3Rn$#_S55pS=Vim3GtZu=5;t)^&ifo`>5"Z>@;"\5io0mcBVI)<Q2^u]7g-AZ5p1_.Ho_DjDN2Q'-ZHf!8(=/IM@!GcX_l@$Sp+RoM]eoLW[:(=.(m7kK@X@5e?@!<?DT.=^oP"V/3r1@t!dd<rfJ,<.=VjMY!lbF;a\iICIGZO3tH:Y(?!30mqg$UiA1I28-Z"!`'UADqD,;A@KnN%Dg2clbq[r6e_%SpJ3mJ70E>m!&g+ERlXo7SYj0p*t?l[ZE[j3;*+aX9j=f^_':I*!!)BnGA2<sZ?QNQ*8)7.acpm^g6Lo'l0R+O!.`JVh*G9#)3h<)J7U=bZDkf^Fcrp.J/&J)lf$^\m3WMB$342GFe`o!`%!pc"T[IorcH+1:KF"i*rpg8j68JbbEi_"6\FnP;i+KSzzzzzzzzzzzzzzzzzzzzzzzzzzz!!!#gmJR6E-Qj-~>
+endstream
+endobj
+37 0 obj
+<<
+/BitsPerComponent 8
+/ColorSpace /DeviceGray
+/Decode [ 0 1 ]
+/Filter [ /ASCII85Decode /FlateDecode ]
+/Height 150
+/Subtype /Image
+/Type /XObject
+/Width 800
+/Length 1204
+>>
+stream
+Gb"0WgL7*S(^<eETE,t(!?86E/$K+:TESQ(#+M7nS)M9naM;3=?k.jkoro)p`]X0k0GiN6%0-A.zzzzzzzz!!!#7.\*Q>qYKaTms4=c"VsTl@$l>GIb!811LK3QI&!no5>oYp_+McR%$M2=-6Fp85%'b*^p$D,SEApUGk[;IZ;F_a.Aa\\C3c0Xq-YKqPk))*.annc$;3.gPkS0#qadKd..<FAF^%7sJ,S$N]@&ASeKkN./g%12k^4@3q5@'gg*eN/fR+t#GdO1i+0<H6I-gb+34E6I+0<<2;U-@3mPekYlgk0%+0<E5;Ej!abHJ\4f951D7U^a3ohN`OrK<:e>*0>EY>=:jJ)@im\*>sbq;D#D83Z=th:pYaoT>G,llG"cq+*[nj&_;uaFm%Aa#uW0LIYR`b=<ThHb7\g'Lu^5j8#;;_.#Q"\SQHe83SqcI'@!IUl'*%K1S:lO5qK,/D$Y+GJ+*$5+;.r5Eh.&edmRaYS<WOeYbGM]6Zsp01f!RO,^O(5\n&APE/(X?d`/Q-m("Z?k(]_W+WI&L$82Bs":83E$"'%FPh4t]\@E>8FtU#QZM>oHn_mDUknK.j\SOY>o2raQB0TuKJj?aZng*hjp$kQp(!Sl?m2tl\umpd\DJE?c/$_E<iiIc4FD9mkEM4%'7r-bmT2,JO.NrIOUl'4D.b!<jJ+c4S)h,&l]G_uf#C^2AN8N6^QO#Wf=ep6I+iJ5g]\#+G53pi9j$M0RDfAuJg9/uP^.ABD^=Z'=c03SBKkb.hnSkZ7IqnJ#;_j<O/DLh>t?hBX(rn$b\T6\Vni^XBoRI.k.sQ%c,@[.1OI>TPe@1fFXUE,iS0Ehj5Ts>=HL+oHP7%>gT0a"-("puXY_Tdg=:M%?rTc_Qs"j*kY?Y=Z0Eo%]o:6B=`9j%PpO+#PY&7HS'*F#:d17Nh/*FaHou1h<s7'CSHl3@ZT3-%OS'Dk>qZalI&sC(GMA;lk18%#g$25;$9d'YYBO".Z*)rb\<cmNe>q^bae:0^bAha`QPRh'Ub!S#Ms[duRkIQmaH@54?uE)ap%`Qd8?sgN`U!OLkAP]1/fVDp^u)DD'b?WArjl/]6i)j<^$U.+(7B?!hrVgNi0:i(q-Y3I-R:$]53.?]aPq9pg[EI95sAD/,dK>(LcjZ%IoG'hk<?nX&;S#8=.F2M+lt_VG%UsYzzzzzzzzzs+C=OV_Zo#~>
+endstream
+endobj
+xref
+0 38
+0000000000 65535 f 
+0000000015 00000 n 
+0000000164 00000 n 
+0000000265 00000 n 
+0000000314 00000 n 
+0000000695 00000 n 
+0000002784 00000 n 
+0000002891 00000 n 
+0000002998 00000 n 
+0000003105 00000 n 
+0000003217 00000 n 
+0000003330 00000 n 
+0000005131 00000 n 
+0000006542 00000 n 
+0000008343 00000 n 
+0000009754 00000 n 
+0000010000 00000 n 
+0000015446 00000 n 
+0000015554 00000 n 
+0000015800 00000 n 
+0000023838 00000 n 
+0000023946 00000 n 
+0000024192 00000 n 
+0000030517 00000 n 
+0000030625 00000 n 
+0000030871 00000 n 
+0000035986 00000 n 
+0000036094 00000 n 
+0000036340 00000 n 
+0000041093 00000 n 
+0000041201 00000 n 
+0000041526 00000 n 
+0000046474 00000 n 
+0000046582 00000 n 
+0000046690 00000 n 
+0000046803 00000 n 
+0000046916 00000 n 
+0000048717 00000 n 
+trailer
+<<
+/Size 38
+/Root 3 0 R
+/Info 1 0 R
+>>
+startxref
+50128
+%%EOF
