@@ -15,6 +15,13 @@ mkdir -p \
 
 chown -R www-data:www-data storage bootstrap/cache
 
+if [ "${DB_CONNECTION:-mysql}" = "sqlite" ]; then
+    DB_FILE="${DB_DATABASE:-/var/www/html/storage/database.sqlite}"
+    mkdir -p "$(dirname "$DB_FILE")"
+    touch "$DB_FILE"
+    chown www-data:www-data "$DB_FILE"
+fi
+
 php artisan package:discover --ansi
 php artisan config:clear
 php artisan route:clear
@@ -22,6 +29,10 @@ php artisan view:clear
 
 if [ "${RUN_MIGRATIONS:-true}" = "true" ]; then
     php artisan migrate --force
+fi
+
+if [ "${RUN_SEEDERS:-false}" = "true" ]; then
+    php artisan db:seed --force
 fi
 
 php artisan config:cache
